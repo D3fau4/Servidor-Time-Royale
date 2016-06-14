@@ -1,0 +1,20 @@
+[02-50-15-INFO] Parsing SupercellProxy.exe.config..
+[02-50-15-CONFIG] Game: CLASH_ROYALE
+[02-50-15-CONFIG] Host: game.clashroyaleapp.com
+[02-50-15-CONFIG] LogLevel: DEFAULT
+[02-50-15-CONFIG] WebAPI Port: 5050
+[02-50-15-INFO] Starting the proxy..
+[02-50-16-INFO] Latest public key for CLASH_ROYALE downloaded!
+[02-50-16-INFO]     => 2971520277bb38734fc36e2a0d95e76e969379a5372a44c1b2fd3c1766b0016a
+[02-50-16-INFO] Done! Connect to 192.168.1.42 and you should be good to go.
+[02-50-16-API] WebAPI started! You may connect to http://localhost:5050/ now.
+[02-50-27-INFO] Parsing SupercellProxy.exe.config..
+[02-50-27-CONFIG] Game: CLASH_ROYALE
+[02-50-27-CONFIG] Host: game.clashroyaleapp.com
+[02-50-27-CONFIG] LogLevel: DEFAULT
+[02-50-27-CONFIG] WebAPI Port: 5050
+[02-50-27-INFO] Starting the proxy..
+[02-50-27-INFO] Latest public key for CLASH_ROYALE downloaded!
+[02-50-27-INFO]     => 2971520277bb38734fc36e2a0d95e76e969379a5372a44c1b2fd3c1766b0016a
+[02-50-27-INFO] Done! Connect to 192.168.1.42 and you should be good to go.
+[02-50-27-API] WebAPI started! You may connect to http://localhost:5050/ now.
