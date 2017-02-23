@@ -1,0 +1,7 @@
+[07-34-54-INFO]Failed to start the proxy (System.NullReferenceException)!
+[07-35-12-INFO]Public key set [349ce78b78a06a4e94645435acba1dfffc40cc2276558ed2d118f1343a197876]
+[07-35-12-JSON]Definitions loaded (2 packets)
+[07-35-12-INFO]Proxy started. Waiting for incoming connections..
+[07-35-54-INFO]Public key set [349ce78b78a06a4e94645435acba1dfffc40cc2276558ed2d118f1343a197876]
+[07-35-54-JSON]Definitions loaded (2 packets)
+[07-35-54-INFO]Proxy started. Waiting for incoming connections..
